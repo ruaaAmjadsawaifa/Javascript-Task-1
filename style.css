@@ -1,0 +1,12 @@
+.demo {
+  background-color: rgb(180, 129, 235);
+  color: #ffffff;
+  border: 2px solid #eee;
+  padding: 3px;
+}
+.vip {
+  background-color: #ffffff;
+  color: rgb(255, 255, 255);
+  border: 4px solid #eee;
+  padding:4px;
+}
